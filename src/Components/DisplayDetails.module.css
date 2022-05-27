@@ -1,0 +1,16 @@
+.users {
+    margin:40px auto;
+    padding:20px;
+    width:90%;
+    max-width:40rem;
+    font-weight:bold
+
+}
+ .user ul{
+     list-style:none;
+     padding: 1rem;
+ }
+ .user li{
+     margin:8px;
+     padding:0.5rem;
+ }
